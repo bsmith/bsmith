@@ -1,3 +1,3 @@
-Benjamin Smith is currently learning a lot about becoming a full-time software developer.
+Benjamin Smith programs in Perl, Python, Typescript and other languages.
 
 [Read more...](https://bsmith.github.io/)
